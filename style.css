@@ -1,0 +1,16 @@
+ body{
+    background-color: blueviolet;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO8AAxAr9ZNr9JCwn2QZ35rSWWuiayhh0ayQ&usqp=CAU);
+ }
+ .btn{
+    border: radius 15px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: chocolate;
+ }
+ .btn:hover{
+    background-color: beige;
+ }
+ h3{
+    text-align: center;
+ }
